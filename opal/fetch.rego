@@ -1,6 +1,6 @@
 package opal.fetch
 
-import common.contains
+import contains
 
 default allow = false
 
